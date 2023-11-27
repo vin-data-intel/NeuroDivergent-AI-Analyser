@@ -1,1 +1,0 @@
-# NeuroDivergent-AI-Analyser
