@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+Non-Autistic       0.55      0.54      0.55        79
+    Autistic       0.67      0.67      0.67       107
+
+    accuracy                           0.62       186
+   macro avg       0.61      0.61      0.61       186
+weighted avg       0.62      0.62      0.62       186
